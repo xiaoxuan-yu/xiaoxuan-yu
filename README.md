@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   </div>
   <div align="right">
     <a href="https://github.com/xiaoxuan-yu/">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxuan-yu" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxuan-yu&layout=compact" />
     </a>
   </div>
 </div>
