@@ -14,10 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Youmans Yu's github stats](https://github-readme-stats.vercel.app/api?username=xiaoxuan-yu)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <div align="left">
+    <a href="https://github.com/xiaoxuan-yu/">
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=xiaoxuan-yu&count_private=true&show_icons=true" />
+    </a>
+  </div>
   <div align="right">
     <a href="https://github.com/xiaoxuan-yu/">
-      <img align="center" src="https://github-readme-stats.yousiki.vercel.app/api/top-langs/?username=yousiki" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxuan-yu" />
     </a>
   </div>
 </div>
