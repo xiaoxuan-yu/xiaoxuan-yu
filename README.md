@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋-->
 
 <!--
 **xiaoxuan-yu/xiaoxuan-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🏫 Undergraduate in Chemistry from PKU
+- 🔬 Working on machine learning aided molecular dynamics
+- 🌱 Currently learning numerical programming and optimization
+- 📚 LaTeX lover, maintaining a set of template suitable for creating reports, assignments and slides in PKU
+
 [![Youmans's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxuan-yu&count_private=true&show_icons=true)](https://github.com/xiaoxuan-yu)
 
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxuan-yu&layout=compact)](https://github.com/xiaoxuan-yu)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxuan-yu&layout=compact)](https://github.com/xiaoxuan-yu)
