@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏫 Undergraduate in Chemistry from PKU
-- 🔬 Working on machine learning aided molecular dynamics
+- 🏫 PhD candidate in Chemistry from CCME@PKU
+- 🔬 Working on machine learning aided molecular modeling
 - 🌱 Currently learning numerical programming and optimization
-- 📚 LaTeX lover, maintaining a set of template suitable for creating reports, assignments and slides in PKU
+- 📚 LaTeX/typst lover, maintaining a set of template suitable for creating reports, assignments and slides in PKU
 
 [![Youmans's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoxuan-yu&count_private=true&show_icons=true)](https://github.com/xiaoxuan-yu)
 
