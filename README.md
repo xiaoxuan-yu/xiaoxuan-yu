@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏫 PhD candidate in Chemistry from CCME@PKU
+- 🏫 PhD student in Chemistry from CCME@PKU
 - 🔬 Working on machine learning aided molecular modeling
 - 🌱 Currently learning numerical programming and optimization
 - 📚 LaTeX/typst lover, maintaining a set of template suitable for creating reports, assignments and slides in PKU
